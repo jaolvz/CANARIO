@@ -11,7 +11,7 @@
     {
         --corPrimaria : rgba(255, 166, 0, 0.486);
         --corTexto:rgb(255, 255, 255);
-        --corSecundaria : rgb(252, 165, 34);
+        --corSecundaria : red;
         --corFundo: rgba(255, 216, 145, 0.445);
     }
     .dark:root {
