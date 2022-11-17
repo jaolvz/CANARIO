@@ -1,7 +1,7 @@
 
     @font-face {
         font-family:Netflix;
-        src: url("/fonts/BebasNeue-Regular.ttf");
+        src: url("fonts/BebasNeue-Regular.ttf");
      } 
     *{
         margin: 0;
